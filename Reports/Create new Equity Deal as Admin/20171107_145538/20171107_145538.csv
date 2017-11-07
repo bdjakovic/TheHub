@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Create new Equity Deal as Admin,Chrome 61.0.3163.100,,2017-11-07 14:55:40,2017-11-07 14:56:10,29.790s,PASSED
+,,,,,,
+Test Cases/Create Equity Deal,Chrome 61.0.3163.100,,2017-11-07 14:55:40,2017-11-07 14:56:10,29.472s,PASSED
+callTestCase,Chrome 61.0.3163.100,,2017-11-07 14:55:41,2017-11-07 14:55:50,9.547s,PASSED
+callTestCase,Chrome 61.0.3163.100,,2017-11-07 14:55:50,2017-11-07 14:56:10,19.424s,PASSED
